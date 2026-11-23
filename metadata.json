@@ -1,0 +1,6 @@
+{
+  "name": "RailVista — Railway Ticket Booking",
+  "description": "Responsive railway ticket booking single-page application with live route search, visual coach seat selection, mock payment, e-tickets, PNR status, and train schedule lookup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
